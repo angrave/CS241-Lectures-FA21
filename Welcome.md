@@ -25,7 +25,7 @@ Pointers can be tricky to learn, but it helps to remember that
 
 (I admit I simplified the last part about compilers but hey this is about using pointers with confidence, not about implementing a compiler OK?)
 
-Let's get started today, right now, with Homework Zero - my introductory mini-course. If you open the link below up on a powerful laptop or desktop using Chrome / Firefox you'll discover videos, man pages, and a complete virtual linux machine running inside your browser (yes it implements memory,disk and CPU in javascript and then boots up a linux machine with gcc and other standard tools - pretty cool! - it works best in Chrome). There's one #include issue with waitpid that I'll let you discover (and find a workaround) in the last lecture.
+Let's get started today, right now, with Homework Zero - my introductory mini-course. If you open the link below up on a powerful laptop or desktop using Chrome / Firefox you'll discover videos, man pages, and a complete virtual linux machine running inside your browser (yes it implements memory,disk and CPU in javascript and then boots up a linux machine with gcc and other standard tools - pretty cool! - it works best in Chrome). There's one #include issue with waitpid that I'll let you discover (and find a workaround) in the last lecture. Also, if nothing seems to be changing check the editor is editing the C file that is compiled and run (program.c).
 
 http://cs-education.github.io/sys/
 
