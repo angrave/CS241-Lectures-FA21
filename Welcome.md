@@ -1,9 +1,8 @@
 Hi class!
 
-Welcome to CS241 System Programming! I'm Lawrence Angrave. I'm excited to be your instructor this semester and to introduce you to C programming and System Programming. If you are coming to class in person I look forward to meeting you on Monday 9am in ECEB 1002.
-Alternatively you can also use the course book and asycnronously watch recorded lectures or the previously online lectures both on [ClassTranscribe](https://classtranscribe.illinois.edu) to do well in the class - the choice is yours.
+Welcome to CS241 System Programming! I'm Lawrence Angrave. I'm excited to be your instructor this semester and to introduce you to C programming and System Programming. If you are coming to class in person I look forward to meeting you on Monday 9am in ECEB 1002. Alternatively you can also use the course book and asynchronously watch recorded lectures or the previously online lectures both on ClassTranscribe to do well in the class - the choice is yours.
 
-These will be friendly, relaxed, interactive, varied-format, CS241-y content demos and interesting. You'll want to supplement these with our free(!) online course book on the website or if online learning is more your style, the pre-recorded videos on ClassTranscribe. 
+Live lectures will be friendly, relaxed, interactive, varied-format, CS241-y content demos and interesting - and a great time to ask questions too. You'll want to supplement these with our free(!) online course book on the website or if online learning is more your style, the pre-recorded videos on ClassTranscribe.
 
 You've probably heard this is a challenging class! Yes, you'll need is time, tenacity and readiness to learn and use C. And the big picture - this course is a stepping stone - You're leaving behind CS225 land (where you write code that works with the course's provided code) and instead we're your launch pad you for the big leagues CS4xx at a tier-1 CS school. Take this course seriously and you will be a different and better person at the end of it.
 
@@ -15,13 +14,13 @@ C programs use a lot of memory pointers. This means your variables hold memory a
 
 Pointers can be tricky to learn, but it helps to remember that
 
-    Asterisk in code "*" is either part of the type ("This is a pointer!") but in an expression it means follow the pointer and read the memory that it points to.
+Asterisk in code "*" is either part of the type ("This is a pointer!") but in an expression it means follow the pointer and read the memory that it points to.
 
-    They just hold a memory address (which CAN be changed e.g " myptr = ... " )
+They just hold a memory address (which CAN be changed e.g " myptr = ... " )
 
-    For a program to use ("dereference") a pointer, then the CPU will need to perform another memory access,
+For a program to use ("dereference") a pointer, then the CPU will need to perform another memory access,
 
-    The variable type is a hint to the compiler as to how many bytes to read/write and is also useful to detect some programming errors at compile time.
+The variable type is a hint to the compiler as to how many bytes to read/write and is also useful to detect some programming errors at compile time.
 
 (I admit I simplified the last part about compilers but hey this is about using pointers with confidence, not about implementing a compiler OK?)
 
@@ -49,10 +48,11 @@ Next steps: To help break down the digital barriers of an online course, I'd lik
 
 Ready? Let's Go!
 
-    Captain Angrave
+Captain Angrave
 
 p.s. Myself and the course staff love teaching this course. We're here help as many of you as possible to become the best programmers and computer scientists that you can be. Are you ready to stand up, put in the effort, and be recognized as an University of Illinois Computer Scientist? Then you're in the right place. Let's kick it into gear and get this show started.
 
 p.p.s Yes you'll write a lot of code but a lot less code than Hamilton's Apollo coding team-
 
-[Margaret_Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_\(scientist\)) ... however, you will be thinking about concurrency, just like she did to ensure that we could land on the moon.
+Margaret_Hamilton ... however, you will be thinking about concurrency, just like she did to ensure that we could land on the moon.
+
