@@ -1,7 +1,7 @@
 Hi class!
 
 Welcome to CS241 System Programming! I'm Lawrence Angrave. I'm excited to be your instructor this semester and to introduce you to C programming and System Programming. If you are coming to class in person I look forward to meeting you on Monday 9am in ECEB 1002.
-Alternatively you can also use the course book and asycnronously watch recorded lectures or the previously online lectures (both on ClassTranscribe.illinois.edu) to do well in the class - the choice is yours.
+Alternatively you can also use the course book and asycnronously watch recorded lectures or the previously online lectures both on [ClassTranscribe](https://classtranscribe.illinois.edu) to do well in the class - the choice is yours.
 
 These will be friendly, relaxed, interactive, varied-format, CS241-y content demos and interesting. You'll want to supplement these with our free(!) online course book on the website or if online learning is more your style, the pre-recorded videos on ClassTranscribe. 
 
@@ -29,13 +29,13 @@ Let's get started today, right now, with Homework Zero - my introductory mini-co
 
 http://cs-education.github.io/sys/
 
-The questions are here (the recorded lecture example code and handouts is in the same repo)
+The questions are here, this is the same repo I will use for Fall 2021 lectures in ECEB.
 
 https://github.com/angrave/CS241-Lectures-FA21/blob/main/HW0.md
 
 We will put up a link to submit HW0 starting the first lab section, although it won't be due until the following week.
 
-You can also regular linux machines and other online environments of course. I suggest you work on HW0 a bit each day (it's much better for long term recall and innate skills acquisition if you exercise your CS241 neurons each day).
+You can also use regular linux machines and other online environments of course. I suggest you work on HW0 a bit each day (it's much better for long term recall and innate skills acquisition if you exercise your CS241 neurons each day).
 
 Please use Ed for discussion (and private posts for grading / logistics / emergency issues)- https://edstem.org Ed is not a U of I resource, so you could use a throw away email if you are concerned. Contact me if you have any concerns about this. Here's the link to join the Fall 2021 forum-
 
