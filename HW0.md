@@ -23,7 +23,7 @@ char* ptr = "lathe";
 // Print something out
 size_t come = fprintf(stdout,"%s door", ptr+2);
 
-// Challenge: Why is the value of away zero?
+// Challenge: Why is the value of away equal to 1?
 int away = ! (int) * "";
 
 
